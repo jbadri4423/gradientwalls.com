@@ -1,0 +1,219 @@
+body{
+	text-align:center;
+}
+img{
+	width:150px;
+	height:300px;
+	margin:10px;
+}
+a{
+	color: white;
+}
+button{
+	border: double;
+	background-color: white;
+}
+.d1{
+	top: 0;
+	width: 100%;
+	height: 100px;
+}
+.p11{
+	font-family:open sans;
+	font-style: bold;
+	font-size: 80px;
+	background: -webkit-linear-gradient(rgb(0, 98, 255), rgb(0, 204, 255));
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.d2{
+	width: 80%;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient2.jpg);
+	margin-left: auto;
+	margin-right: auto;
+}
+.p1{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b1{
+	margin-right:100px;
+}
+.b3{
+	margin-left:100px;
+}
+.d3{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient5.jpg);
+}
+.p2{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b4{
+	margin-right:100px;
+}
+.b6{
+	margin-left:100px;
+}
+.d4{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient8.jpg);
+}
+.p3{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b7{
+	margin-right:100px;
+}
+.b9{
+	margin-left:100px;
+}
+.d5{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient11.jpg);
+}
+.p4{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b10{
+	margin-right:100px;
+}
+.b12{
+	margin-left:100px;
+}
+.d6{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient14.jpg);
+}
+.p5{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b13{
+	margin-right:100px;
+}
+.b15{
+	margin-left:100px;
+}
+.d7{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient17.jpg);
+}
+.p6{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b16{
+	margin-right:100px;
+}
+.b18{
+	margin-left:100px;
+}
+.d8{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient20.jpg);
+}
+.p7{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b19{
+	margin-right:100px;
+}
+.b21{
+	margin-left:100px;
+}
+.d9{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient23.jpg);
+}
+.p8{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b22{
+	margin-right:100px;
+}
+.b24{
+	margin-left:100px;
+}
+.d10{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient26.jpg);
+}
+.p9{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b25{
+	margin-right:100px;
+}
+.b27{
+	margin-left:100px;
+}
+.d11{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 50px;
+	border: solid;
+	background-image: url(gradient29.jpg);
+}
+.p10{
+	margin-right: auto;
+	margin-left: auto;
+	color: white;
+}
+.b28{
+	margin-right:100px;
+}
+.b30{
+	margin-left:100px;
+}
